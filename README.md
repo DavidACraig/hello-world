@@ -1,2 +1,7 @@
 # hello-world
-This is a tutorial repository.  It will not hold any real data beyond what is required to complete this tutorial.
+
+Greetings
+
+My name is David Craig and I have decided to make some serious changes in my life.
+The springboard for this change is learning programming in more detail than I already
+do.
